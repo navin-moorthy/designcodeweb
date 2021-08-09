@@ -41,6 +41,7 @@ const ContentWrapper = styled.div`
   margin: 0 auto;
   display: grid;
   grid-template-columns: 360px auto;
+  overflow: hidden;
 `
 
 const TextWrapper = styled.div`
